@@ -19,3 +19,5 @@ Zenith OS is a Terminal User Interface (TUI) simulation designed to visualize hi
 ## 🚦 How to Run
 1. Install dependencies: `pip3 install colorama`
 2. Execute the simulator: `python3 simulator.py`
+
+https://github.com/user-attachments/assets/c9aff142-f8a6-4341-87d3-a06c8ba4f621
